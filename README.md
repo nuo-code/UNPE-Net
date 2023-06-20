@@ -1,3 +1,2 @@
 # UNPE-Net
-pose estimation
-Codes will be released later.
+After the paper is accepted, consider open source code.
